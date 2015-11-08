@@ -13,7 +13,7 @@
     "require": {
         "yiisoft/yii2": "*",
         "ext-curl": "*"
-    },
+    },dfsfsda
     "autoload": {
         "psr-4": {
             "linslin\\yii2\\curl\\": ""
